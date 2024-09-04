@@ -2,6 +2,12 @@
 
 import ipdb
 
+# If ipdb is not installed, you can install it using:
+# pip install ipdb
+
+# If ipdb is not installed, you can install it using:
+# pip install ipdb
+
 def tracing_the_function():
     inside_the_function = "We're inside the function"
     print(inside_the_function)

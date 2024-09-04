@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-import ipdb
+import ipdb  # type: ignore
 
 def plus_two(num):
-    num + 2
-    return num
+    return num +2
